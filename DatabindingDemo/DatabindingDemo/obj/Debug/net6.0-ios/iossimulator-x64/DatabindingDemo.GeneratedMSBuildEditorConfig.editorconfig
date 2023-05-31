@@ -1,0 +1,53 @@
+is_global = true
+build_property.TargetFramework = net6.0-ios
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = DatabindingDemo
+build_property.ProjectDir = C:\Users\asnda\source\repos\DatabindingDemo\DatabindingDemo\
+
+[C:/Users/asnda/source/repos/DatabindingDemo/DatabindingDemo/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = DatabindingDemo.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/asnda/source/repos/DatabindingDemo/DatabindingDemo/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = DatabindingDemo.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/Users/asnda/source/repos/DatabindingDemo/DatabindingDemo/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = DatabindingDemo.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[C:/Users/asnda/source/repos/DatabindingDemo/DatabindingDemo/Pges/BindingModes.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = DatabindingDemo.Pges.BindingModes.xaml
+build_metadata.AdditionalFiles.TargetPath = Pges\BindingModes.xaml
+build_metadata.AdditionalFiles.RelativePath = Pges\BindingModes.xaml
+
+[C:/Users/asnda/source/repos/DatabindingDemo/DatabindingDemo/Pges/SliderPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = DatabindingDemo.Pges.SliderPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pges\SliderPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pges\SliderPage.xaml
+
+[C:/Users/asnda/source/repos/DatabindingDemo/DatabindingDemo/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = DatabindingDemo.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Users/asnda/source/repos/DatabindingDemo/DatabindingDemo/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = DatabindingDemo.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml

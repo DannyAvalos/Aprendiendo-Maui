@@ -1,0 +1,5 @@
+C:\Users\asnda\source\repos\ColorMaker\ColorMaker\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\ColorMaker.csproj.AssemblyReference.cache
+C:\Users\asnda\source\repos\ColorMaker\ColorMaker\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\ColorMaker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asnda\source\repos\ColorMaker\ColorMaker\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\ColorMaker.AssemblyInfoInputs.cache
+C:\Users\asnda\source\repos\ColorMaker\ColorMaker\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\ColorMaker.AssemblyInfo.cs
+C:\Users\asnda\source\repos\ColorMaker\ColorMaker\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\ColorMaker.csproj.CoreCompileInputs.cache

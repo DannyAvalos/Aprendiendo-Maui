@@ -1,0 +1,1 @@
+C:\Users\asnda\source\repos\ColorMaker\ColorMaker\ColorMaker.csproj;x64

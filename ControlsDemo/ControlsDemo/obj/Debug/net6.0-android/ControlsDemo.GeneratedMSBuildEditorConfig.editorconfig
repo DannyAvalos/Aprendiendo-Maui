@@ -1,0 +1,77 @@
+is_global = true
+build_property.TargetFramework = net6.0-android
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ControlsDemo
+build_property.ProjectDir = C:\Users\asnda\source\repos\ControlsDemo\ControlsDemo\
+
+[C:/Users/asnda/source/repos/ControlsDemo/ControlsDemo/ActivityControlsDemo.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ControlsDemo.ActivityControlsDemo.xaml
+build_metadata.AdditionalFiles.TargetPath = ActivityControlsDemo.xaml
+build_metadata.AdditionalFiles.RelativePath = ActivityControlsDemo.xaml
+
+[C:/Users/asnda/source/repos/ControlsDemo/ControlsDemo/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ControlsDemo.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/asnda/source/repos/ControlsDemo/ControlsDemo/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ControlsDemo.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/Users/asnda/source/repos/ControlsDemo/ControlsDemo/CollectionsControlsDemo.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ControlsDemo.CollectionsControlsDemo.xaml
+build_metadata.AdditionalFiles.TargetPath = CollectionsControlsDemo.xaml
+build_metadata.AdditionalFiles.RelativePath = CollectionsControlsDemo.xaml
+
+[C:/Users/asnda/source/repos/ControlsDemo/ControlsDemo/CommandsControlsDemo.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ControlsDemo.CommandsControlsDemo.xaml
+build_metadata.AdditionalFiles.TargetPath = CommandsControlsDemo.xaml
+build_metadata.AdditionalFiles.RelativePath = CommandsControlsDemo.xaml
+
+[C:/Users/asnda/source/repos/ControlsDemo/ControlsDemo/InputControlsDemo.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ControlsDemo.InputControlsDemo.xaml
+build_metadata.AdditionalFiles.TargetPath = InputControlsDemo.xaml
+build_metadata.AdditionalFiles.RelativePath = InputControlsDemo.xaml
+
+[C:/Users/asnda/source/repos/ControlsDemo/ControlsDemo/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ControlsDemo.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[C:/Users/asnda/source/repos/ControlsDemo/ControlsDemo/PresentationControlsDemo.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ControlsDemo.PresentationControlsDemo.xaml
+build_metadata.AdditionalFiles.TargetPath = PresentationControlsDemo.xaml
+build_metadata.AdditionalFiles.RelativePath = PresentationControlsDemo.xaml
+
+[C:/Users/asnda/source/repos/ControlsDemo/ControlsDemo/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ControlsDemo.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Users/asnda/source/repos/ControlsDemo/ControlsDemo/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ControlsDemo.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[C:/Users/asnda/source/repos/ControlsDemo/ControlsDemo/TextControlsDemo.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ControlsDemo.TextControlsDemo.xaml
+build_metadata.AdditionalFiles.TargetPath = TextControlsDemo.xaml
+build_metadata.AdditionalFiles.RelativePath = TextControlsDemo.xaml
